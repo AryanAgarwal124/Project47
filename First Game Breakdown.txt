@@ -1,0 +1,54 @@
+First Game Breakdown
+
+NAME :
+
+PC /NPCS :
+
+PC :  ASTRONAUT
+NPC: ALIENS ( 1 or more than one)
+
+STORY:  ASTRONAUT is trying to escape the aliens and trying to get batteries to power -up his spaceship
+
+GOAL : Astronaut needs to collect 100 batteries  and survive the aliens to complete level 1.
+
+Rules:
+1. Astronaut can either jump over obstacles using Space key or he can use the right arrow key to move ahead.
+
+2. Aliens will be spawned in a random way from top to bottom direction in different x positions
+
+3. Batteries should be spawned along the path at different heights
+
+4. Robot/creature obstacles will be spawned along the path in random order.
+
+5. If astronaut touches alien or obstacle, Game ends.
+
+6. If astronaut touches the batteries, Battery count increases.
+
+7.  When battery count is 100, level 1 is complete and display either a monument or flag to indicate the same. Give option to start the next level.
+
+8.If game ends, give option to restart the same level.
+
+9. There is a power-up , which if the astronaut gets, he /she can jump higher or Battery count increases by 5.
+ 
+10. After every 25 battery count, increase obstacle(alien,robot) speed
+
+ADAPTIVITY: 
+Create 3 levels in the game with increasing difficult.
+
+CHANCE VS SKILL:
+Chance - There is a power-up , which if the astronaut gets, he /she can jump higher or Battery count increases by 5.
+Skill - Astronaut has to avoid collision with Alien or Obstacle (Robot/creature) and collect 100 batteries for level 1 completion.
+
+FEEDBACK :
+1. Display the battery count throughout the game.
+
+2. Add some sound effect when Astronaut touches a battery and power-up.
+
+3. Add sound effect when Astronaut touches the Alien or Obstacle (Robot/creature).
+
+4. Add sound effect when Astronaut completes a level successfully. 
+
+
+Notes.
+
+1) ChangeBackground Image function
